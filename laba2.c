@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-int main() // добавил int main
 {
   float m,n,z1,z2,a,b,c,d;
   system("chcp 1251");
